@@ -1,11 +1,5 @@
-student_code,full_name,age,score
-S001,Aria Kline,20,88
-S002,Jonas Reed,21,74
-S003,Zara Nunez,19,91
-S004,Malik Chen,22,67
-S005,Priya Das,20,83
-S006,Ethan Cruz,20,77
-S007,Lina Park,21,95
-S008,Omar Aziz,23,69
-S009,Sophie Li,19,82
-S010,Noah Grant,22,90
+Name,Age,Marks
+Adam,21,75
+Amon,18,82
+Klien,22,98
+Leon,19,78
